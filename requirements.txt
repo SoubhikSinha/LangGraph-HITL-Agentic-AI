@@ -5,3 +5,4 @@ ipykernel
 python-dotenv
 langchain-groq
 langchain_tavily
+langgraph-cli[inmem] # This is for LangGraph Studio (inmem : in-memory)
